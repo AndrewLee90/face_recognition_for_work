@@ -34,7 +34,7 @@ Idle 상태 창, Start를 눌러 카메라를 활성화 시킨다.
 
 카메라가 활성화 되고 인증 팝업 생성.
 
-![access_granted](access_granted.png)
+![access_granted](access_granted2.png)
 
 샘플 사진을 미리 저장해둔다.
 
