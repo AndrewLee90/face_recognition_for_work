@@ -19,3 +19,30 @@
 - OpenCV (`opencv-python`)
 - PySide6
 - PyInstaller (배포용)
+
+## Example
+
+파일 실행 시, 로그인 필요
+ID admin
+PW admin
+
+![login](login.png)
+
+Idle 상태 창, Start를 눌러 카메라를 활성화 시킨다.
+
+![idle](idle.png)
+
+카메라가 활성화 되고 인증 팝업 생성.
+
+![access_granted](access_granted.png)
+
+샘플 사진을 미리 저장해둔다.
+
+![face_data](known_face_data.png)
+
+인증 정보가 시간별로 로그에 남는다.
+![verified_logs](verified_logs.png)
+
+해당 파일에서 찾아 볼 수 있다.
+![folder](folder.png)
+
